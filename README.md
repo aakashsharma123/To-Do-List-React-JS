@@ -1,8 +1,9 @@
-# React + Vite
+this is my To -Do- List using React js 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+step 1 - https://github.com/aakashsharma123/To-Do-List-React-JS.git this is my To-Do-List Github link u can clone it by using git clone "Link"
 
-Currently, two official plugins are available:
+step 2 - we should run npm i so that it will install node_moudles
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+step 3 - we should run npm run dev or npx vite so that we can open my to-do-list in a locallost 
+
+step-4 - we can add my to-do in the to-do-application
